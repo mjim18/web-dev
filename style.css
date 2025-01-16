@@ -4,7 +4,10 @@ body {
   color: #3a3a3a
 }
 h1 {
-  font-size: 24px
+  font-size: 24px;
+}
+img {
+  width: 60px;
 }
 table {
   background-color: white
